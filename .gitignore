@@ -1,2 +1,4 @@
 logs/*.log
 !logs/sample.log
+/illusion.iml
+/.idea/
